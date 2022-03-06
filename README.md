@@ -1,2 +1,2 @@
-# instagram-tela-inicial
- Recriando a tela inicial do Instagram. 
+# instagram-tela-login
+Clone da tela de login do Instagram. 
